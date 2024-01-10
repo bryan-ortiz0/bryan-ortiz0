@@ -1,4 +1,4 @@
-we just getting started🧙
+we're just getting started 🧙
 
 <picture>
   <source
