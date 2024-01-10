@@ -1,4 +1,4 @@
-we just getting started
+we just getting started🧙
 
 ![Bryan Ortiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&show_icons=true)
 
