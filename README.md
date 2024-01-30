@@ -3,7 +3,7 @@
 
 # Github Stats 📈
 
-<table style="width:100%; border-spacing: 1rem;">
+<table style="width:100%; border-collapse: collapse; border-spacing: 1rem;">
     <tr>
         <td valign="middle"><a href="https://github.com/bryan-ortiz0?tab=repositories">
             <img align="center" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
