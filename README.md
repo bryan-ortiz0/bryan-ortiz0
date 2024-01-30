@@ -4,10 +4,10 @@
 # Github Stats 📈
 
 <a href="https://github.com/bryan-ortiz0?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
 </a>
 <a href="https://github.com/bryan-ortiz0?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0)](https://github.com/anuraghazra/github-readme-stats)
