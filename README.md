@@ -3,12 +3,16 @@
 
 # Github Stats 📈
 
-<a href="https://github.com/bryan-ortiz0?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
-</a>
-<a href="https://github.com/bryan-ortiz0?tab=repositories">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
-</a>
+<table style="width:100%">
+    <tr>
+        <td valign="middle"><a href="https://github.com/bryan-ortiz0?tab=repositories">
+            <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
+          </a></td>
+        <td valign="middle"><a href="https://github.com/bryan-ortiz0?tab=repositories">
+           <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
+         </a></td>
+     </tr>
+</table>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0)](https://github.com/anuraghazra/github-readme-stats)
 
