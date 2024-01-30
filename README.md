@@ -1,16 +1,14 @@
-we're just getting started 🧙
+<p align="center">
+  <a href="https://github.com/omazoz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hello, I'm Bryan 🧙..."></a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&show_icons=true" />
-</picture>
+# Github Stats 📈
+
+<a href="https://github.com/bryan-ortiz0?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
+</a>
+<a href="https://github.com/bryan-ortiz0?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
+</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0)](https://github.com/anuraghazra/github-readme-stats)
 
