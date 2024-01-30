@@ -3,13 +3,13 @@
 
 # Github Stats 📈
 
-<table style="width:100%">
+<table style="width:100%; border-spacing: 1rem;">
     <tr>
         <td valign="middle"><a href="https://github.com/bryan-ortiz0?tab=repositories">
-            <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
+            <img align="center" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-ortiz0&theme=radical"/>
           </a></td>
         <td valign="middle"><a href="https://github.com/bryan-ortiz0?tab=repositories">
-           <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_height=40&show_icons=true&theme=radical">
+           <img align="center" height="350em" src="https://github-readme-stats.vercel.app/api?username=bryan-ortiz0&line_header=40&show_icons=true&theme=radical">
          </a></td>
      </tr>
 </table>
