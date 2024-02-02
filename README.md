@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=bryan-ortiz0&style=plastic)
+
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,mysql,py,tensorflow)](https://skillicons.dev)
 
